@@ -100,7 +100,7 @@ rancherImage: rancher/rancher
 # rancherImagePullPolicy: <pullPolicy>
 
 # Number of Rancher server replicas.
-replicas: 3
+replicas: 1
 
 # Set pod resource requests/limits for Rancher.
 resources: {}
